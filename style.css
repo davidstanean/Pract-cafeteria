@@ -1,0 +1,167 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4e2cc;
+    color: #ad593d;
+
+
+}
+
+
+.container {
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    color: #492519;
+    font-weight: bold;
+    
+}
+
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+}
+
+
+p.carta {
+
+    position: absolute;
+    top: 20px; 
+    left: 20px;
+ 
+}
+
+p.cafe {
+
+    position: absolute;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    text-align: center;
+
+}
+
+p.contactos {
+
+    position: absolute;
+    bottom: 20px; 
+    right: 20px
+
+}
+
+
+
+.infocarta {
+
+    margin-left: 20px;
+    margin-right: 20px;
+    color:#a52747 ;
+    font-weight: bold;
+
+}
+
+
+.infocafe {
+
+    margin-left: 80px;
+    margin-right: 80px;
+    color:#a52747 ;
+    font-weight: bold;
+
+}
+
+.infocontactos {
+
+    margin-left: 20px;
+    color:#a52747 ;
+    font-weight: bold;
+
+}
+
+
+
+
+.contactos-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.titulocontactos {
+    font-size: 2rem;
+    color: #492519;
+    font-weight: bold;
+    margin-bottom: 50px;right: 20px;
+    color:#a52747 ;
+    font-weight: bold;
+
+}
+
+
+.infocafe {
+
+    margin-left: 80px;
+    margin-right: 80px;
+    color:#a52747 ;
+    font-weight: bold;
+
+}
+
+.infocontactos {
+
+    margin-left: 20px;
+    color:#a52747 ;
+    font-weight: bold;
+
+}
+
+
+
+.infocontactos {
+    list-style-type: decimal; 
+    padding-left: 0;
+    margin-left: 20px;
+    font-size: 1.1rem;
+    text-align: left;
+    line-height: 3;
+    margin-top: 80;
+
+}
+
+.infocontactos ul {
+    list-style-type: disc; 
+    padding-left: 20px;
+}
+
+.infocontactos a {
+    color: #a52747;
+   
+}
+
+.infocontactos a:hover {
+    text-decoration: underline;
+}
+
+
+
+img{
+
+    width: 250px;
+    height: 250px;
+}
+
+
+
+
+
+
+
+
